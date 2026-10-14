@@ -1,21 +1,21 @@
 # Compressor-IQ-Edge-DigitalTwin
 
-## **Edge Computing Digital Twin Engine for HVAC Predictive Maintenance
+## *Edge_Computing_Digital_Twin_Engine_for_HVAC_Predictive_Maintenance**
 
-##  System Architecture
-![CompressorIQ Architecture](CompressoriQ-Diagram.png)
+##  System_Architecture
+![CompressorIQ_Architecture](CompressoriQ-Diagram.png)
 
-**Data Flow:** Physical Sensors and Edge Layer and Cloud/Backend and Presentation Dashboard
+**Data_Flow:** Physical Sensors and Edge_Layer and Cloud_Backend and Presentation_Dashboard
 
 ### Key Components:
-1. **Edge Layer**: Sensors, GPIO/12C, Local Anomaly Detection
-2. **Cloud/Backend** Database, REST API, ML Prediction
-3. **Presentation**: Web Dashboard
+1. **Edge-Layer**: Sensors, GPIO/12C, Local_Anomaly_Detection
+2. **Cloud_Backend** Database, REST_API, ML_Prediction
+3. **Presentation**: Web_Dashboard
 
 4. ## Features
 5. - Real-time monitoring at the edge
-   - Anomaly dectection and fault prediction
-   - Digital Twin simulation
+   - Anomaly_dectection and_fault prediction
+   - Digital_Twin simulation
   
 ##  Author
-**Victor**- Global Wealth University Supervisor Projecct 2026
+**Victor**- Global_Wealth University Supervisor_Projecct 2026
